@@ -60,7 +60,7 @@ A compact, fast, category-based directory for quick submissions and browsing.
 
 ## BZDir
 **<https://www.bzdir.com/>**  
-A lightweight directory highlighting fresh, active websites across niches.
+BZDir is a lightweight business directory highlighting fresh, active companies across industries.
 
 ---
 
