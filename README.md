@@ -58,8 +58,8 @@ A compact, fast, category-based directory for quick submissions and browsing.
 
 ---
 
-## DirBZ
-**<https://www.dirbz.com/>**  
+## BZDir
+**<https://www.bzdir.com/>**  
 A lightweight directory highlighting fresh, active websites across niches.
 
 ---
