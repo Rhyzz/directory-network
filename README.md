@@ -181,3 +181,27 @@ A directory of legal service vendors and support professionals.
 ## LawBracket
 **<https://www.lawbracket.com/>**  
 A legal listings platform connecting clients with law firms and specialists.
+
+---
+
+## ScoopArticles
+**<https://www.scooparticles.com/>**  
+A platform for discovering and publishing articles across a wide range of topics with clear categories and easy browsing.
+
+---
+
+## Articles.Best
+**<https://articles.best/>**  
+A curated hub for quality articles and guides, built for clarity, discovery, and long-term value across categories.
+
+---
+
+## Articles.Directory
+**<https://articles.directory/>**  
+A focused article directory for discovering useful reads across topics, with straightforward browsing and clean presentation.
+
+---
+
+## articles.im
+**<https://articles.im/>**  
+A growing library of articles and guides across topics, organized for clarity, discovery, and a better reading experience.
