@@ -28,6 +28,12 @@ A premium, brand-driven directory focused on standout websites, businesses, and 
 
 ---
 
+## PressRelease.Top
+**<https://pressrelease.top/>**  
+A press release distribution and publishing platform for sharing business announcements, company news, and brand updates.
+
+---
+
 ## Ultimate Directory
 **<https://www.ultimatedir.com/>**  
 A long-running, human-edited web directory showcasing quality websites across categories.
